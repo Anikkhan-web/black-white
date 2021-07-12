@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.white{
+    width: 50%;
+   
+
+
+}
+.black{
+    width: 50%;
+    background-color: black;
+    height: 100vh;
+    float: right;
+   
+
+}
